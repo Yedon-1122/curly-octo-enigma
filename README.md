@@ -1,2 +1,2 @@
 # curly-octo-enigma
-This is my life datebase
+This is my life database
